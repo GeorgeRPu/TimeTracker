@@ -1,4 +1,4 @@
-# TimeTracking
+# GTHacks2019-TimeTracking
 
 ## Technologies Used
 

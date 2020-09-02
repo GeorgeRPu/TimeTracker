@@ -13,7 +13,7 @@
 - [ ] Users cam enter their activity
     - [x] There is a form for users to enter activity
     - [ ] After entering, the new entry is displayed immediately
-- [ ] Users ca view their activity data for a _ as a pie chart
+- [ ] Users can view their activity data for a *blank* as a pie chart
     - [x] Day
     - [ ] Week
 - [ ] Users can edit entered activity
